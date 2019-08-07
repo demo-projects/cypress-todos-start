@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1565175371528" clover="3.2.0">
+  <project timestamp="1565175371528" name="All files">
+    <metrics statements="187" coveredstatements="19" conditionals="43" coveredconditionals="2" methods="64" coveredmethods="6" elements="294" coveredelements="27" complexity="0" loc="187" ncloc="187" packages="8" files="21" classes="21">
+      <package name="src">
+        <metrics statements="13" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <file name="index.js" path="/Users/nirkaufman/Desktop/cypress-todos-start/src/index.js">
+          <metrics statements="13" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+          <line num="1" count="0" type="stmt"/>
+          <line num="2" count="0" type="stmt"/>
+          <line num="3" count="0" type="stmt"/>
+          <line num="4" count="0" type="stmt"/>
+          <line num="5" count="0" type="stmt"/>
+          <line num="6" count="0" type="stmt"/>
+          <line num="7" count="0" type="stmt"/>
+          <line num="8" count="0" type="stmt"/>
+          <line num="9" count="0" type="stmt"/>
+          <line num="11" count="0" type="stmt"/>
+          <line num="12" count="0" type="stmt"/>
+          <line num="13" count="0" type="stmt"/>
+          <line num="15" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="src.actions">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="5"/>
+        <file name="index.js" path="/Users/nirkaufman/Desktop/cypress-todos-start/src/actions/index.js">
+          <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="5"/>
+          <line num="3" count="1" type="stmt"/>
+          <line num="4" count="1" type="stmt"/>
+          <line num="5" count="1" type="stmt"/>
+          <line num="6" count="1" type="stmt"/>
+          <line num="7" count="1" type="stmt"/>
+          <line num="8" count="1" type="stmt"/>
+        </file>
+      </package>
+      <package name="src.components">
+        <metrics statements="77" coveredstatements="0" conditionals="24" coveredconditionals="0" methods="23" coveredmethods="0"/>
+        <file name="App.js" path="/Users/nirkaufman/Desktop/cypress-todos-start/src/components/App.js">
+          <metrics statements="5" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+          <line num="1" count="0" type="stmt"/>
+          <line num="2" count="0" type="stmt"/>
+          <line num="3" count="0" type="stmt"/>
+          <line num="7" count="0" type="stmt"/>
+          <line num="11" count="0" type="stmt"/>
+        </file>
+        <file name="Footer.js" path="/Users/nirkaufman/Desktop/cypress-todos-start/src/components/Footer.js">
+          <metrics statements="11" coveredstatements="0" conditionals="6" coveredconditionals="0" methods="2" coveredmethods="0"/>
+          <line num="1" count="0" type="stmt"/>
+          <line num="2" count="0" type="stmt"/>
+          <line num="3" count="0" type="stmt"/>
+          <line num="4" count="0" type="stmt"/>
+          <line num="6" count="0" type="stmt"/>
+          <line num="12" count="0" type="stmt"/>
+          <line num="13" count="0" type="stmt"/>
+          <line num="14" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="15" count="0" type="stmt"/>
+          <line num="22" count="0" type="stmt"/>
+          <line num="41" count="0" type="stmt"/>
+        </file>
+        <file name="Header.js" path="/Users/nirkaufman/Desktop/cypress-todos-start/src/components/Header.js">
+          <metrics statements="8" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="0"/>
+          <line num="1" count="0" type="stmt"/>
+          <line num="2" count="0" type="stmt"/>
+          <line num="3" count="0" type="stmt"/>
+          <line num="5" count="0" type="stmt"/>
+          <line num="6" count="0" type="stmt"/>
+          <line num="11" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="12" count="0" type="stmt"/>
+          <line num="20" count="0" type="stmt"/>
+        </file>
+        <file name="Link.js" path="/Users/nirkaufman/Desktop/cypress-todos-start/src/components/Link.js">
+          <metrics statements="7" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+          <line num="1" count="0" type="stmt"/>
+          <line num="2" count="0" type="stmt"/>
+          <line num="3" count="0" type="stmt"/>
+          <line num="5" count="0" type="stmt"/>
+          <line num="8" count="0" type="stmt"/>
+          <line num="11" count="0" type="stmt"/>
+          <line num="18" count="0" type="stmt"/>
+        </file>
+        <file name="MainSection.js" path="/Users/nirkaufman/Desktop/cypress-todos-start/src/components/MainSection.js">
+          <metrics statements="7" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="1" coveredmethods="0"/>
+          <line num="1" count="0" type="stmt"/>
+          <line num="2" count="0" type="stmt"/>
+          <line num="3" count="0" type="stmt"/>
+          <line num="4" count="0" type="stmt"/>
+          <line num="6" count="0" type="stmt"/>
+          <line num="8" count="0" type="stmt"/>
+          <line num="33" count="0" type="stmt"/>
+        </file>
+        <file name="TodoItem.js" path="/Users/nirkaufman/Desktop/cypress-todos-start/src/components/TodoItem.js">
+          <metrics statements="19" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="7" coveredmethods="0"/>
+          <line num="1" count="0" type="stmt"/>
+          <line num="2" count="0" type="stmt"/>
+          <line num="3" count="0" type="stmt"/>
+          <line num="4" count="0" type="stmt"/>
+          <line num="6" count="0" type="stmt"/>
+          <line num="18" count="0" type="stmt"/>
+          <line num="22" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="23" count="0" type="stmt"/>
+          <line num="25" count="0" type="stmt"/>
+          <line num="27" count="0" type="stmt"/>
+          <line num="30" count="0" type="stmt"/>
+          <line num="31" count="0" type="stmt"/>
+          <line num="34" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="35" count="0" type="stmt"/>
+          <line num="38" count="0" type="stmt"/>
+          <line num="41" count="0" type="stmt"/>
+          <line num="47" count="0" type="stmt"/>
+          <line num="54" count="0" type="stmt"/>
+          <line num="59" count="0" type="stmt"/>
+        </file>
+        <file name="TodoList.js" path="/Users/nirkaufman/Desktop/cypress-todos-start/src/components/TodoList.js">
+          <metrics statements="7" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+          <line num="1" count="0" type="stmt"/>
+          <line num="2" count="0" type="stmt"/>
+          <line num="3" count="0" type="stmt"/>
+          <line num="5" count="0" type="stmt"/>
+          <line num="6" count="0" type="stmt"/>
+          <line num="8" count="0" type="stmt"/>
+          <line num="13" count="0" type="stmt"/>
+        </file>
+        <file name="TodoTextInput.js" path="/Users/nirkaufman/Desktop/cypress-todos-start/src/components/TodoTextInput.js">
+          <metrics statements="13" coveredstatements="0" conditionals="8" coveredconditionals="0" methods="5" coveredmethods="0"/>
+          <line num="1" count="0" type="stmt"/>
+          <line num="2" count="0" type="stmt"/>
+          <line num="3" count="0" type="stmt"/>
+          <line num="5" count="0" type="stmt"/>
+          <line num="19" count="0" type="stmt"/>
+          <line num="20" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="21" count="0" type="stmt"/>
+          <line num="22" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="23" count="0" type="stmt"/>
+          <line num="29" count="0" type="stmt"/>
+          <line num="33" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="34" count="0" type="stmt"/>
+          <line num="39" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="src.constants">
+        <metrics statements="13" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <file name="ActionTypes.js" path="/Users/nirkaufman/Desktop/cypress-todos-start/src/constants/ActionTypes.js">
+          <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+          <line num="1" count="2" type="stmt"/>
+          <line num="2" count="2" type="stmt"/>
+          <line num="3" count="2" type="stmt"/>
+          <line num="4" count="2" type="stmt"/>
+          <line num="5" count="2" type="stmt"/>
+          <line num="6" count="2" type="stmt"/>
+          <line num="7" count="2" type="stmt"/>
+          <line num="8" count="2" type="stmt"/>
+          <line num="9" count="2" type="stmt"/>
+          <line num="10" count="2" type="stmt"/>
+        </file>
+        <file name="TodoFilters.js" path="/Users/nirkaufman/Desktop/cypress-todos-start/src/constants/TodoFilters.js">
+          <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+          <line num="1" count="0" type="stmt"/>
+          <line num="2" count="0" type="stmt"/>
+          <line num="3" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="src.containers">
+        <metrics statements="24" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="0"/>
+        <file name="FilterLink.js" path="/Users/nirkaufman/Desktop/cypress-todos-start/src/containers/FilterLink.js">
+          <metrics statements="6" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+          <line num="1" count="0" type="stmt"/>
+          <line num="2" count="0" type="stmt"/>
+          <line num="3" count="0" type="stmt"/>
+          <line num="5" count="0" type="stmt"/>
+          <line num="9" count="0" type="stmt"/>
+          <line num="11" count="0" type="stmt"/>
+        </file>
+        <file name="Header.js" path="/Users/nirkaufman/Desktop/cypress-todos-start/src/containers/Header.js">
+          <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+          <line num="1" count="0" type="stmt"/>
+          <line num="2" count="0" type="stmt"/>
+          <line num="3" count="0" type="stmt"/>
+        </file>
+        <file name="MainSection.js" path="/Users/nirkaufman/Desktop/cypress-todos-start/src/containers/MainSection.js">
+          <metrics statements="7" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+          <line num="1" count="0" type="stmt"/>
+          <line num="2" count="0" type="stmt"/>
+          <line num="3" count="0" type="stmt"/>
+          <line num="4" count="0" type="stmt"/>
+          <line num="5" count="0" type="stmt"/>
+          <line num="8" count="0" type="stmt"/>
+          <line num="13" count="0" type="stmt"/>
+        </file>
+        <file name="VisibleTodoList.js" path="/Users/nirkaufman/Desktop/cypress-todos-start/src/containers/VisibleTodoList.js">
+          <metrics statements="8" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+          <line num="1" count="0" type="stmt"/>
+          <line num="2" count="0" type="stmt"/>
+          <line num="3" count="0" type="stmt"/>
+          <line num="4" count="0" type="stmt"/>
+          <line num="5" count="0" type="stmt"/>
+          <line num="7" count="0" type="stmt"/>
+          <line num="11" count="0" type="stmt"/>
+          <line num="16" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="src.reducers">
+        <metrics statements="22" coveredstatements="3" conditionals="13" coveredconditionals="2" methods="6" coveredmethods="1"/>
+        <file name="index.js" path="/Users/nirkaufman/Desktop/cypress-todos-start/src/reducers/index.js">
+          <metrics statements="4" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+          <line num="1" count="0" type="stmt"/>
+          <line num="2" count="0" type="stmt"/>
+          <line num="3" count="0" type="stmt"/>
+          <line num="5" count="0" type="stmt"/>
+        </file>
+        <file name="todos.js" path="/Users/nirkaufman/Desktop/cypress-todos-start/src/reducers/todos.js">
+          <metrics statements="12" coveredstatements="3" conditionals="10" coveredconditionals="2" methods="5" coveredmethods="1"/>
+          <line num="10" count="1" type="stmt"/>
+          <line num="13" count="1" type="cond" truecount="1" falsecount="6"/>
+          <line num="15" count="0" type="stmt"/>
+          <line num="18" count="0" type="stmt"/>
+          <line num="21" count="0" type="stmt"/>
+          <line num="28" count="0" type="stmt"/>
+          <line num="29" count="0" type="stmt"/>
+          <line num="33" count="0" type="stmt"/>
+          <line num="34" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="40" count="0" type="stmt"/>
+          <line num="43" count="0" type="stmt"/>
+          <line num="46" count="1" type="stmt"/>
+        </file>
+        <file name="visibilityFilter.js" path="/Users/nirkaufman/Desktop/cypress-todos-start/src/reducers/visibilityFilter.js">
+          <metrics statements="6" coveredstatements="0" conditionals="3" coveredconditionals="0" methods="1" coveredmethods="0"/>
+          <line num="1" count="0" type="stmt"/>
+          <line num="2" count="0" type="stmt"/>
+          <line num="4" count="0" type="cond" truecount="0" falsecount="1"/>
+          <line num="5" count="0" type="stmt"/>
+          <line num="7" count="0" type="stmt"/>
+          <line num="9" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="src.sagas">
+        <metrics statements="19" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="15" coveredmethods="0"/>
+        <file name="TodoSagas.js" path="/Users/nirkaufman/Desktop/cypress-todos-start/src/sagas/TodoSagas.js">
+          <metrics statements="19" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="15" coveredmethods="0"/>
+          <line num="1" count="0" type="stmt"/>
+          <line num="2" count="0" type="stmt"/>
+          <line num="5" count="0" type="stmt"/>
+          <line num="9" count="0" type="stmt"/>
+          <line num="13" count="0" type="stmt"/>
+          <line num="14" count="0" type="stmt"/>
+          <line num="16" count="0" type="stmt"/>
+          <line num="20" count="0" type="stmt"/>
+          <line num="24" count="0" type="stmt"/>
+          <line num="25" count="0" type="stmt"/>
+          <line num="27" count="0" type="stmt"/>
+          <line num="31" count="0" type="stmt"/>
+          <line num="35" count="0" type="stmt"/>
+          <line num="36" count="0" type="stmt"/>
+          <line num="37" count="0" type="stmt"/>
+          <line num="38" count="0" type="stmt"/>
+          <line num="41" count="0" type="stmt"/>
+          <line num="45" count="0" type="stmt"/>
+          <line num="49" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="src.selectors">
+        <metrics statements="13" coveredstatements="0" conditionals="6" coveredconditionals="0" methods="7" coveredmethods="0"/>
+        <file name="index.js" path="/Users/nirkaufman/Desktop/cypress-todos-start/src/selectors/index.js">
+          <metrics statements="13" coveredstatements="0" conditionals="6" coveredconditionals="0" methods="7" coveredmethods="0"/>
+          <line num="1" count="0" type="stmt"/>
+          <line num="2" count="0" type="stmt"/>
+          <line num="4" count="0" type="stmt"/>
+          <line num="5" count="0" type="stmt"/>
+          <line num="7" count="0" type="stmt"/>
+          <line num="10" count="0" type="stmt"/>
+          <line num="12" count="0" type="stmt"/>
+          <line num="14" count="0" type="stmt"/>
+          <line num="16" count="0" type="stmt"/>
+          <line num="18" count="0" type="stmt"/>
+          <line num="23" count="0" type="stmt"/>
+          <line num="26" count="0" type="stmt"/>
+          <line num="27" count="0" type="cond" truecount="0" falsecount="2"/>
+        </file>
+      </package>
+    </metrics>
+  </project>
+</coverage>
