@@ -1,5 +1,1 @@
-## React Readux Todo app
-
- 
-
- 
+## React Readx todos starter
